@@ -1,0 +1,25 @@
+{
+  "name": "TradePlus List",
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+      "symbol": "LIEN",
+      "name": "LIEN",
+      "decimals": 8
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+      "symbol": "HAKKA",
+      "name": "Hakka Finance",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
